@@ -48,29 +48,6 @@ for version control.
 This is not just an iOS development thing! If you plan to work in software
 engineering, there is a 99.9% chance you will be dealing with git.
 
-
-## Forking
-
-For each module, you'll be creating a fork of the module repo which will be
-associated with your account.
-
-To fork, click on the "Fork" button on this module's Github page.
-It should be located between "Watch" and "Star".
-
-![Image highlighting the Fork button on Github.](module0-img1.png)
-
-In the *Create a new fork* page, you shouldn't need to change anything, but
-it should have the following configuration:
-
-- Owner is your github account
-- Repository name is identical to forking repo (`bootcamp-module-0`)
-- The option to *copy the main branch only* is checked.
-
-![Image showing fork creation screen.](module0-img2.png)
-
-After pressing the *Create fork* button, you should be redirected to your
-newly forked repo page.
-
 ## Cloning
 
 Since repositories (like this) are hosted remotely on websites like Github,
@@ -234,10 +211,4 @@ Later in the semester, you'll do this in a group project.
 
 ## Submission
 
-To submit your work, make the forked version of the repository public then share the link with your instructor. Under your repository name, click Settings.
-
-If you cannot see the "Settings" tab, select the ... dropdown menu, then click Settings. 
-
-In the "Danger Zone" section, to the right of to "Change repository visibility", click Change visibility. 
-
-Select a visibility.
+Check the [Assignments](https://gt-ios-club.notion.site/Assignments-1b6cb97d5c7b467d9bc176de64578453?pvs=4) notion page for submission instructions!
