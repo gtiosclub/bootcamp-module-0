@@ -211,4 +211,6 @@ Later in the semester, you'll do this in a group project.
 
 ## Submission
 
-Check the [Assignments](https://gt-ios-club.notion.site/Assignments-1b6cb97d5c7b467d9bc176de64578453?pvs=4) notion page for submission instructions!
+Check the [Assignments](https://gt-ios-club.notion.site/Assignments-1b6cb97d5c7b467d9bc176de64578453?pvs=4) notion page for submission instructions! 
+
+If you are having trouble, feel free to reach out via Discord.
